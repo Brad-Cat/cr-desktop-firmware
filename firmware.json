@@ -1,0 +1,588 @@
+{
+  "artifacts": [
+    {
+      "bytes": 260680,
+      "device_filename": null,
+      "id": "eoc01-1027",
+      "models": [
+        "CREST-CR1",
+        "TUSA-ELEMENT III",
+        "DYNAMICNORD-CDC-30",
+        "SHERWOOD-Logic+"
+      ],
+      "platform": "EOC01",
+      "sha256": "6dbe4aca2f33cffe81e247c41f897bc61308efb422cb36e355fa7e66c44ba125",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/EOC01-1027.bin",
+      "version": "1027"
+    },
+    {
+      "bytes": 364816,
+      "device_filename": null,
+      "id": "eoc4p-c02-06",
+      "models": [
+        "CREST-CR4P"
+      ],
+      "platform": "EOC4P",
+      "sha256": "06f458627b3dfc245a0e56c6f336b98dc80056273ee003c679b0f9141878ff2f",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/EOC4P-C02-06.bin",
+      "version": "C02-06"
+    },
+    {
+      "bytes": 286884,
+      "device_filename": null,
+      "id": "eoc04-c01-5c",
+      "models": [
+        "Crest-CR4"
+      ],
+      "platform": "EOC04",
+      "sha256": "a011d64a26ad259b9dcc4f1289886df41fd41ade24938414b905468132b711cd",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/C01-5C.bin",
+      "version": "C01-5C"
+    },
+    {
+      "bytes": 286908,
+      "device_filename": null,
+      "id": "eoc04-d01-5c",
+      "models": [
+        "EXCURSION"
+      ],
+      "platform": "EOC04",
+      "sha256": "22593a525a4ea95c9fe88c0043fe4115be7ff3991d36a538fe907bcbfe06b270",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/D01-5C.bin",
+      "version": "D01-5C"
+    },
+    {
+      "bytes": 219756,
+      "device_filename": null,
+      "id": "eoc04-dp1-6d",
+      "models": [
+        "Divepro-XV4"
+      ],
+      "platform": "EOC04",
+      "sha256": "fffc67c1d1c975263a2ae27ad7ed06000fa4edf6677238312ec60a8f4a6cb136",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/DP1-6D.bin",
+      "version": "DP1-6D"
+    },
+    {
+      "bytes": 285948,
+      "device_filename": null,
+      "id": "eoc04-ge1-6a",
+      "models": [
+        "CENTAURI"
+      ],
+      "platform": "EOC04",
+      "sha256": "c19307c544f4cfc20d4a1dfa1c849dee8d4bb75eced89018feb17919c77ced8f",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE1-6A.bin",
+      "version": "GE1-6A"
+    },
+    {
+      "bytes": 235132,
+      "device_filename": null,
+      "id": "eoc04-s01-6d",
+      "models": [
+        "ALPHA"
+      ],
+      "platform": "EOC04",
+      "sha256": "62068861fd2242d5629a41c73c415f488daadfe955eb62a315123a7b975c8367",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/S01-6D.bin",
+      "version": "S01-6D"
+    },
+    {
+      "bytes": 1740956,
+      "device_filename": "EOC5L",
+      "id": "crl062",
+      "models": [
+        "CREST-CR5L"
+      ],
+      "platform": "EOC05",
+      "sha256": "7a3add276bd206ad7d25423f6b9d4efb71cb2dd59267e93945dcc2f7414c5125",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL062.bin",
+      "version": "CRL062"
+    },
+    {
+      "bytes": 1758004,
+      "device_filename": "EOC5L",
+      "id": "crl064",
+      "models": [
+        "CREST-CR5L"
+      ],
+      "platform": "EOC05",
+      "sha256": "bf7100785bd35695e351aee59bff5d4ae33b8b1c5eeb60b63d73ba33a73bc1c3",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL064.bin",
+      "version": "CRL064"
+    },
+    {
+      "bytes": 1816788,
+      "device_filename": "EOC5L",
+      "id": "crl066",
+      "models": [
+        "CREST-CR5L"
+      ],
+      "platform": "EOC05",
+      "sha256": "1f5b404803a2ff36f0684a13c087ddbc12ee9515d2e36175bf8784709a3a1c0a",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL066.bin",
+      "version": "CRL066"
+    },
+    {
+      "bytes": 1815580,
+      "device_filename": "EOC5L",
+      "id": "crl068",
+      "models": [
+        "CREST-CR5L"
+      ],
+      "platform": "EOC05",
+      "sha256": "5f045d708da3cdaf505d3af91ca8761b0ac55c2dcadcef6063e53f01c57af150",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL068.bin",
+      "version": "CRL068"
+    },
+    {
+      "bytes": 1819796,
+      "device_filename": "EOC5L",
+      "id": "crl070",
+      "models": [
+        "CREST-CR5L"
+      ],
+      "platform": "EOC05",
+      "sha256": "8cef285df06e64c0eb6262aca5ead1f0bb2c9260d477eac9b959d63f80a2e296",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL070.bin",
+      "version": "CRL070"
+    },
+    {
+      "bytes": 1680504,
+      "device_filename": "EOC5L",
+      "id": "crl072",
+      "models": [
+        "CREST-CR5L"
+      ],
+      "platform": "EOC05",
+      "sha256": "b77311dd93075d0d2cceedd38daa844160061eb202382a2ccaa15854ea912330",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL072.bin",
+      "version": "CRL072"
+    },
+    {
+      "bytes": 1739672,
+      "device_filename": "EOG05",
+      "id": "ge5064",
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "platform": "EOC05",
+      "sha256": "f32458c867f0c5f6bc62ad0e3dd8c8a77ec63858cfba175cb262eccede23dce6",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5064.bin",
+      "version": "GE5064"
+    },
+    {
+      "bytes": 1739704,
+      "device_filename": "EOG05",
+      "id": "ge5066",
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "platform": "EOC05",
+      "sha256": "9f219ea2d6809f17c8d4c74e4f4fc2967be4f30394aa96e6d9c6076006f80125",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5066.bin",
+      "version": "GE5066"
+    },
+    {
+      "bytes": 1754556,
+      "device_filename": "EOG05",
+      "id": "ge5068",
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "platform": "EOC05",
+      "sha256": "dad70db0e74b43d3904a603f28c63bb2f953b769e661998c6fdb363b7b2d9248",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5068.bin",
+      "version": "GE5068"
+    },
+    {
+      "bytes": 1757920,
+      "device_filename": "EOG05",
+      "id": "ge5070",
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "platform": "EOC05",
+      "sha256": "23311274a57a1847c234c087a8a7865431b6ec9814154b682beb1e74abec34c8",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5070.bin",
+      "version": "GE5070"
+    },
+    {
+      "bytes": 1757464,
+      "device_filename": "EOG05",
+      "id": "ge5072",
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "platform": "EOC05",
+      "sha256": "3213aa65c23e9ddc9c16ca76ea922fd3a766afc79c8fab6bdcfc99478bd582c3",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5072.bin",
+      "version": "GE5072"
+    },
+    {
+      "bytes": 1763612,
+      "device_filename": "EOG05",
+      "id": "ge5074",
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "platform": "EOC05",
+      "sha256": "bdd29710fc7f8b43e5f5a66161547eda0dc3a088eb825ed158f5c66193a408c8",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5074.bin",
+      "version": "GE5074"
+    }
+  ],
+  "format": 1,
+  "published_at": "2026-11-24T16:18:50Z",
+  "sequence": 1,
+  "upgrades": [
+    {
+      "diffs": [],
+      "from": [
+        "1023",
+        "1024",
+        "1025",
+        "1026"
+      ],
+      "hardware": null,
+      "id": "eoc01-to-1027",
+      "max_bytes": null,
+      "models": [
+        "CREST-CR1",
+        "TUSA-ELEMENT III",
+        "DYNAMICNORD-CDC-30",
+        "SHERWOOD-Logic+"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "",
+      "platform": "EOC01",
+      "source_notes": {},
+      "target": "eoc01-1027"
+    },
+    {
+      "diffs": [],
+      "from": [
+        "C02-00",
+        "C02-01",
+        "C02-02",
+        "C02-03",
+        "C02-04"
+      ],
+      "hardware": null,
+      "id": "eoc4p-to-c02-06",
+      "max_bytes": null,
+      "models": [
+        "CREST-CR4P"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "C02",
+      "platform": "EOC4P",
+      "source_notes": {},
+      "target": "eoc4p-c02-06"
+    },
+    {
+      "diffs": [],
+      "from": [
+        "C01-5B"
+      ],
+      "hardware": "GB-004",
+      "id": "eoc04-c01-gb-to-5c",
+      "max_bytes": null,
+      "models": [
+        "Crest-CR4"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "C01",
+      "platform": "EOC04",
+      "source_notes": {},
+      "target": "eoc04-c01-5c"
+    },
+    {
+      "diffs": [],
+      "from": [
+        "D01-5B"
+      ],
+      "hardware": "GB-004",
+      "id": "eoc04-d01-gb-to-5c",
+      "max_bytes": null,
+      "models": [
+        "EXCURSION"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "D01",
+      "platform": "EOC04",
+      "source_notes": {},
+      "target": "eoc04-d01-5c"
+    },
+    {
+      "diffs": [],
+      "from": [
+        "DP1-5B",
+        "DP1-5C",
+        "DP1-5D",
+        "DP1-5E",
+        "DP1-5F",
+        "DP1-5G",
+        "DP1-5H",
+        "DP1-5I",
+        "DP1-5J",
+        "DP1-5K",
+        "DP1-5L",
+        "DP1-5M",
+        "DP1-5N",
+        "DP1-5O",
+        "DP1-5P",
+        "DP1-5Q",
+        "DP1-5R",
+        "DP1-5S",
+        "DP1-5T",
+        "DP1-5U",
+        "DP1-5V",
+        "DP1-5W",
+        "DP1-5X",
+        "DP1-5Y",
+        "DP1-5Z",
+        "DP1-6A",
+        "DP1-6B",
+        "DP1-6C"
+      ],
+      "hardware": "GB-004",
+      "id": "eoc04-dp1-gb-to-6d",
+      "max_bytes": null,
+      "models": [
+        "Divepro-XV4"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "DP1",
+      "platform": "EOC04",
+      "source_notes": {},
+      "target": "eoc04-dp1-6d"
+    },
+    {
+      "diffs": [],
+      "from": [
+        "GE1-5B",
+        "GE1-5C",
+        "GE1-5D",
+        "GE1-5E",
+        "GE1-5F",
+        "GE1-5G",
+        "GE1-5H",
+        "GE1-5I",
+        "GE1-5J",
+        "GE1-5K",
+        "GE1-5L",
+        "GE1-5M",
+        "GE1-5N",
+        "GE1-5O",
+        "GE1-5P",
+        "GE1-5Q",
+        "GE1-5R",
+        "GE1-5S",
+        "GE1-5T",
+        "GE1-5U",
+        "GE1-5V",
+        "GE1-5W",
+        "GE1-5X",
+        "GE1-5Y",
+        "GE1-5Z"
+      ],
+      "hardware": "GB-004",
+      "id": "eoc04-ge1-gb-to-6a",
+      "max_bytes": null,
+      "models": [
+        "CENTAURI"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "GE1",
+      "platform": "EOC04",
+      "source_notes": {},
+      "target": "eoc04-ge1-6a"
+    },
+    {
+      "diffs": [],
+      "from": [
+        "S01-5B",
+        "S01-5C",
+        "S01-5D",
+        "S01-5E",
+        "S01-5F",
+        "S01-5G",
+        "S01-5H",
+        "S01-5I",
+        "S01-5J",
+        "S01-5K",
+        "S01-5L",
+        "S01-5M",
+        "S01-5N",
+        "S01-5O",
+        "S01-5P",
+        "S01-5Q",
+        "S01-5R",
+        "S01-5S",
+        "S01-5T",
+        "S01-5U",
+        "S01-5V",
+        "S01-5W",
+        "S01-5X",
+        "S01-5Y",
+        "S01-5Z",
+        "S01-6A",
+        "S01-6B",
+        "S01-6C"
+      ],
+      "hardware": "GB-004",
+      "id": "eoc04-s01-gb-to-6d",
+      "max_bytes": null,
+      "models": [
+        "ALPHA"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "S01",
+      "platform": "EOC04",
+      "source_notes": {},
+      "target": "eoc04-s01-6d"
+    },
+    {
+      "diffs": [
+        {
+          "base": "crl062",
+          "bytes": 409336,
+          "from": "CRL062",
+          "sha256": "7f1f2053833588588d2c94880d21225519eb91ad0a432db26544785668bf0582",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL062-to-CRL072.diff"
+        },
+        {
+          "base": "crl064",
+          "bytes": 386166,
+          "from": "CRL064",
+          "sha256": "b51abb9b7e75ba9ae66db48d305ee8a745b2a00ad7a227fb3d447771e9d17fa8",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL064-to-CRL072.diff"
+        },
+        {
+          "base": "crl066",
+          "bytes": 305513,
+          "from": "CRL066",
+          "sha256": "f80f9eeaf9e5fb0177d34c15359e1acfe91c9186d5b698dc10987c4071ecb351",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL066-to-CRL072.diff"
+        },
+        {
+          "base": "crl068",
+          "bytes": 296065,
+          "from": "CRL068",
+          "sha256": "0ff173156c56b15cdc0ca5cff37a02cfd3bedda5b2cefba5537a9d1cb3232b50",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL068-to-CRL072.diff"
+        },
+        {
+          "base": "crl070",
+          "bytes": 234940,
+          "from": "CRL070",
+          "sha256": "57efd71e6fc1bcd9d7b7d9398598386c8f2de093fd7f6192e4101638d80c9dee",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CRL070-to-CRL072.diff"
+        }
+      ],
+      "from": [
+        "CRL062",
+        "CRL064",
+        "CRL066",
+        "CRL068",
+        "CRL070"
+      ],
+      "hardware": null,
+      "id": "crl-to-072",
+      "max_bytes": null,
+      "models": [
+        "CREST-CR5L"
+      ],
+      "notes": {
+        "en": "Adds Simplified Chinese; UI improvements (language names shown in their own language, etc.).",
+        "zh-TW": "新增簡體中文；部分介面優化（語言選項顯示語言本身的名稱等）。"
+      },
+      "oem_prefix": "CRL",
+      "platform": "EOC05",
+      "source_notes": {},
+      "target": "crl072"
+    },
+    {
+      "diffs": [
+        {
+          "base": "ge5064",
+          "bytes": 344302,
+          "from": "GE5064",
+          "sha256": "35c807a8eb0c27049dbc96ab44e148f6bc8b231cf7b3e769327f102427be56d3",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5064-to-GE5074.diff"
+        },
+        {
+          "base": "ge5066",
+          "bytes": 234249,
+          "from": "GE5066",
+          "sha256": "32e28a5242bf5225e83849e4f96d4315f2e57d659b4af7dad3efe9520c9402af",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5066-to-GE5074.diff"
+        },
+        {
+          "base": "ge5068",
+          "bytes": 192737,
+          "from": "GE5068",
+          "sha256": "aae74e682172f833470bd55f340772bc7509ee5cfd0753dc8c27cbd0f0c3f1be",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5068-to-GE5074.diff"
+        },
+        {
+          "base": "ge5070",
+          "bytes": 277773,
+          "from": "GE5070",
+          "sha256": "f675b997b93858f7d0dbd400a8f3fc26cc200a9a3062869e0cc71ddb6b9a6768",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5070-to-GE5074.diff"
+        },
+        {
+          "base": "ge5072",
+          "bytes": 166136,
+          "from": "GE5072",
+          "sha256": "a18f136e9ad6cd5d2ca6977274a4bc4b75c23bb72b8cec993172208d9001cab3",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5072-to-GE5074.diff"
+        }
+      ],
+      "from": [
+        "GE5064",
+        "GE5066",
+        "GE5068",
+        "GE5070",
+        "GE5072"
+      ],
+      "hardware": null,
+      "id": "ge5-to-074",
+      "max_bytes": null,
+      "models": [
+        "GENESIS-Graviton"
+      ],
+      "notes": {
+        "en": "This is the latest released firmware.",
+        "zh-TW": "這是目前發布的最新韌體。"
+      },
+      "oem_prefix": "GE5",
+      "platform": "EOC05",
+      "source_notes": {},
+      "target": "ge5074"
+    }
+  ]
+}
