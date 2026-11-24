@@ -1,0 +1,6 @@
+# 韌體檔（.bin、差分）一律放 GitHub Release 的附件，絕不 commit 進這個 repo。
+# git 會永遠留著每一個版本，而且刪不掉。
+*.bin
+*.BIN
+*.diff
+*.zip
