@@ -230,11 +230,95 @@
       "sha256": "bdd29710fc7f8b43e5f5a66161547eda0dc3a088eb825ed158f5c66193a408c8",
       "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/GE5074.bin",
       "version": "GE5074"
+    },
+    {
+      "bytes": 1745660,
+      "device_filename": "EOC05",
+      "id": "cr5060",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "46a0739ac959b486c53958a919c9dd00785681aa194a60c8c160245e250b7c96",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5060.bin",
+      "version": "CR5060"
+    },
+    {
+      "bytes": 1745660,
+      "device_filename": "EOC05",
+      "id": "cr5062",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "9c98927ffd942564821d7962b9a431d5917b0e74b7c064c399d256cedb846517",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5062.bin",
+      "version": "CR5062"
+    },
+    {
+      "bytes": 1761300,
+      "device_filename": "EOC05",
+      "id": "cr5064",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "bd60dcf301d5cfedc0421a051e097a87712394f40d431b9f51ce9024c4e3f6b9",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5064.bin",
+      "version": "CR5064"
+    },
+    {
+      "bytes": 1816600,
+      "device_filename": "EOC05",
+      "id": "cr5066",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "c966547a226d67db6566d63a591e3dc3c974d06d69e35ba78a6b9d0b5fda3b5c",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5066.bin",
+      "version": "CR5066"
+    },
+    {
+      "bytes": 1815832,
+      "device_filename": "EOC05",
+      "id": "cr5068",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "ddae6b8558fe5d7413c58802674741514097d29b546fb19342c83949c4d5e18e",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5068.bin",
+      "version": "CR5068"
+    },
+    {
+      "bytes": 1820084,
+      "device_filename": "EOC05",
+      "id": "cr5070",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "2a58d272e6f64c372864caec5e5662ead20353e2970f10662d1d6c66cc52a1b8",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5070.bin",
+      "version": "CR5070"
+    },
+    {
+      "bytes": 1820568,
+      "device_filename": "EOC05",
+      "id": "cr5072",
+      "models": [
+        "CREST-CR5"
+      ],
+      "platform": "EOC05",
+      "sha256": "e9a5de5af8464ee5b77b10dd36fa573ffc1a0dafa76e4129e224400e577d431a",
+      "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5072.bin",
+      "version": "CR5072"
     }
   ],
   "format": 1,
-  "published_at": "2026-11-24T16:18:50Z",
-  "sequence": 1,
+  "published_at": "2026-11-24T19:19:22Z",
+  "sequence": 2,
   "upgrades": [
     {
       "diffs": [],
@@ -583,6 +667,83 @@
       "platform": "EOC05",
       "source_notes": {},
       "target": "ge5074"
+    },
+    {
+      "diffs": [
+        {
+          "base": "cr5060",
+          "bytes": 306448,
+          "from": "CR5060",
+          "sha256": "7bc30acaeb1a9756a0b574328384ef5a25278e368e10e91e05b584ad118b56e1",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5060-to-CR5072.diff"
+        },
+        {
+          "base": "cr5062",
+          "bytes": 305666,
+          "from": "CR5062",
+          "sha256": "54c7832247c9f3e7259bdc08ca494fd01a5ee07516ba20f79fce3b148534e6d7",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5062-to-CR5072.diff"
+        },
+        {
+          "base": "cr5064",
+          "bytes": 277728,
+          "from": "CR5064",
+          "sha256": "3242c2db23977be0d5d470ee5fce97bf984e2dbc341d0b2c8ecf1515ed28024b",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5064-to-CR5072.diff"
+        },
+        {
+          "base": "cr5066",
+          "bytes": 182450,
+          "from": "CR5066",
+          "sha256": "d75c6ec6132b8fc2b9d59dbdcd2cedf62e31d87f54845302e472fdd548aaef47",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5066-to-CR5072.diff"
+        },
+        {
+          "base": "cr5068",
+          "bytes": 188647,
+          "from": "CR5068",
+          "sha256": "0ebfa8057d79c0491106032982452eafc8c89ac26e67f019c877746135c54710",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5068-to-CR5072.diff"
+        },
+        {
+          "base": "cr5070",
+          "bytes": 94188,
+          "from": "CR5070",
+          "sha256": "144192d2819936746cc0ec0552a72974fa8da380543b25a5b3c1586b31b2b93c",
+          "url": "https://github.com/Brad-Cat/cr-desktop-firmware/releases/download/firmware-2026-11-25/CR5070-to-CR5072.diff"
+        }
+      ],
+      "from": [
+        "CR5060",
+        "CR5062",
+        "CR5064",
+        "CR5066",
+        "CR5068",
+        "CR5070"
+      ],
+      "hardware": null,
+      "id": "cr5-to-072",
+      "max_bytes": null,
+      "models": [
+        "CREST-CR5"
+      ],
+      "notes": {
+        "en": "Fixes an occasional blank screen (backlight on but nothing displayed) when raising the wrist to wake the watch in clock mode.",
+        "zh-TW": "修正時鐘模式下抬手喚醒時，螢幕偶發黑畫面（背光亮起但畫面不顯示）的問題。"
+      },
+      "oem_prefix": "CR5",
+      "platform": "EOC05",
+      "source_notes": {
+        "CR5060": {
+          "en": "When updating from CR5060 or CR5062, the update screen takes about 3 to 5 minutes to appear. The black screen during that time is normal. Please wait, and do not interrupt the update or force the watch off.",
+          "zh-TW": "從 CR5060 或 CR5062 升級時，更新畫面會延遲約 3～5 分鐘才出現，期間黑畫面屬正常現象。請耐心等候，不要中斷更新或強制關機。"
+        },
+        "CR5062": {
+          "en": "When updating from CR5060 or CR5062, the update screen takes about 3 to 5 minutes to appear. The black screen during that time is normal. Please wait, and do not interrupt the update or force the watch off.",
+          "zh-TW": "從 CR5060 或 CR5062 升級時，更新畫面會延遲約 3～5 分鐘才出現，期間黑畫面屬正常現象。請耐心等候，不要中斷更新或強制關機。"
+        }
+      },
+      "target": "cr5072"
     }
   ]
 }
